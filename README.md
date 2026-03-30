@@ -63,10 +63,10 @@ No hard module requirements -- at least one of ActiveDirectory module or Microso
 
 ## Charts (4)
 
-- AD NHI Types (donut)
-- Entra Service Principal Categories (donut)
-- NHI Risk Distribution (donut)
-- Credential Health Status (donut)
+- AD NHI Types 
+- Entra Service Principal Categories 
+- NHI Risk Distribution 
+- Credential Health Status
 
 ## Requirements
 
