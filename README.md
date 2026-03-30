@@ -89,6 +89,23 @@ Connect-MgGraph -Scopes "Directory.Read.All","Application.Read.All"
 .\NHICanvas.ps1
 ```
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/3.jpg)
+
+### Section
+![Domain Section](screenshots/2.jpg)
+
+### Charts
+![Charts](screenshots/4.jpg)
+
+### Run Summary
+![DC Table](screenshots/1.jpg)
+
+### App
+![DC Table](screenshots/5.jpg)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
